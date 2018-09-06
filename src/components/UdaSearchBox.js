@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import SearchInput from './SearchInput.js';
 import SearchButton from './SearchButton';
-import UdaSearchBoxStyle from '../stylesheets/UdaSearchBoxStyle.js';
-
+ import {searchInputStyle} from './UdaSearchBoxStyles.js';
+ 
 class UdaSearchBox extends Component {
   constructor(props) {
     super(props);
@@ -25,7 +25,7 @@ class UdaSearchBox extends Component {
       iconActive,
     } = this.state
     return (
-      <div style={UdaSearchBoxStyle}>
+        <div style={searchInputStyle}>
         <SearchInput
           placeholderMap={placeholderMap}
           placeholderPlace={placeholderPlace}
