@@ -3,7 +3,7 @@ import MapIcon from '../images/map.png';
 import MapSelectIcon from '../images/map_select.png';
 import PlaceIcon from '../images/place.png';
 import PlaceSelectIcon from '../images/place_select.png';
-import {searchInputStyle} from './UdaSearchBoxStyles.js';
+import {iconAddress} from './UdaSearchBoxStyles.js';
 
 class IconInput extends Component {
     render() {
@@ -15,7 +15,7 @@ class IconInput extends Component {
 
         if (iconVisiblePlace && iconVisibleMap) {
             return (
-                <div>
+                <div style= {iconAddress}>
                     <img
                         src={PlaceSelectIcon}
                         alt="Place icon"
