@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import SearchInput from './SearchInput.js';
 import SearchButton from './SearchButton';
- import {searchInputStyle} from './UdaSearchBoxStyles.js';
+import {searchInputStyle} from './UdaSearchBoxStyles.js';
  
 class UdaSearchBox extends Component {
   constructor(props) {

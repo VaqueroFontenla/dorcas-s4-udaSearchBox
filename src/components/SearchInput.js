@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import IconInput from './IconInput.js';
-
+import {inputIconBox} from './UdaSearchBoxStyles.js';
 class SearchInput extends Component {
     render() {
         const {
@@ -11,7 +11,7 @@ class SearchInput extends Component {
             iconActive,
         } = this.props
         return (
-            <div>
+            <div style={inputIconBox}>
                 <label htmlFor="input-search" style={{ display: 'none' }}>Voy a ser un label oculto</label>
                 <input type="search" id="input-search" placeholder="Voy a ser una prop" />
                 <IconInput
