@@ -1,7 +1,8 @@
 const searchBox= {
     display:'flex',
-    flexDirection: 'row',
-    
+    flexDirection: 'row', 
+    position:'absolute'   ,
+  
 }
 
 const inputBox ={
@@ -10,7 +11,7 @@ const inputBox ={
     padding:'8px',
     width: '100%',
     minWidth:'350px',
-    maxWidth:'800px'
+    maxWidth:'800px',
 }
 
 const buttonSearch= {
@@ -21,24 +22,24 @@ const buttonSearch= {
     background: '#CA1C24',
     color: 'white',
     textTransform: 'uppercase',
-    left: '-66px'
-    
 }
+
 const IconsBox={
     display:'flex',
     flexDirection: 'row',
     position: 'relative',  
     top: '3.4px',  
-    left: '-112px',
+    left: '-76px',
     height:'28px',
     width:'30px',
 }
+
 const placeIconBox={      
 }
+
 const mapIconBox={
     backgroundColor: 'white',
-    marginLeft: '6px',
-    
+    marginLeft: '6px',    
 }
 
 
