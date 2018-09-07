@@ -1,9 +1,18 @@
 const searchBox= {
     display:'flex',
     flexDirection: 'row',
-    // minWidth:'350px',
-    // maxWidth:'800px'
+    
 }
+
+const inputBox ={
+    height:'35px',
+    width:'300px',
+    padding:'8px',
+    width: '100%',
+    minWidth:'350px',
+    maxWidth:'800px'
+}
+
 const buttonSearch= {
     width: '70px',
     height: '35px',
@@ -12,7 +21,6 @@ const buttonSearch= {
     background: '#CA1C24',
     color: 'white',
     textTransform: 'uppercase',
-    position: 'relative',    
     left: '-66px'
     
 }
@@ -33,11 +41,7 @@ const mapIconBox={
     
 }
 
-const inputBox ={
-    height:'35px',
-    width:'300px',
-    padding:'8px'
-}
+
 
 
 
