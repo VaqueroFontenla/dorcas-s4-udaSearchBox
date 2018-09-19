@@ -119,6 +119,38 @@ class UdaSearchBox extends Component {
     } = this.state
 
     return (
+      <div>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veniam nemo corporis assumenda minima. Eum quisquam possimus odit dolor nulla iste omnis, provident quidem doloribus placeat laudantium eos officia beatae?</p>
+
       <div style={SearchBox}>
         <div style={imputIconsBox}>
           {((this.state.placesActive && placesOn)
@@ -161,6 +193,7 @@ class UdaSearchBox extends Component {
             popUpStatus={popUpIsOpen}
             onClosePopUp={this.onClosePopUp}
           />}
+      </div>
       </div>
     );
   }
